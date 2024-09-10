@@ -5,8 +5,8 @@ This week, I was excited to work more with markup language because I had quite a
 - **bold text**
 - *italic text*
 - different sizes of headings
-- a [link](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles)
-- a picture
+- a [link](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles) (to the wikipedia page of my favorite franchise)
+- a picture (of my favorite Ninja Turtle)
 - a paragraph.
 
 ![Michelangelo](./images/michelangelo.jpg)
