@@ -16,4 +16,4 @@ Here are the steps:
 13. Fill in the details, like the curves of the ears, hooves, and heart-shaped fluff 
 14. Finally, you can add antlers if you'd like! Draw two spiky curves and connect them to his forehead with some lines
 
-I suppose the additional tip is step 14, because it's completely optional. The pictures wil sit with the text of every step.
+I suppose the additional tip is step 14, because it's completely optional. It's a way to add a little extra pizzazz to your drawing! The corresponding pictures will sit with the text of each step.
