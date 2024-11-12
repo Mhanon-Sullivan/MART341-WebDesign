@@ -1,0 +1,75 @@
+body {
+    background-color: #fd8148;
+    color: #333;
+    font-family: 'Arvo';
+    margin: 0;
+    padding: 20px;
+}
+
+*{
+    font-family: 'Arvo'; 
+}
+
+header {
+    position: relative;
+    left: 25.5%;
+    width: 50%;
+    background-color: #ff9868;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    border: 2px solid #f53a07;
+    border-radius: 10px;
+}
+
+.main {
+    position: relative;
+    left: 25%;
+    background-color: #fff;
+    padding: 20px;
+    border: 2px solid #f53a07;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(141, 0, 19, 0.326);
+    width: 50%;
+    overflow: hidden;
+}
+
+#para-1, #para-2, #para-3 {
+    color: #272727
+ }
+
+img {
+    width: 25%;
+    display: block;
+    margin: auto;
+}
+
+h2{
+    font-family: 'Arvo-Italic';
+    text-decoration: underline;
+}
+
+href{
+    color: white;
+}
+
+.button {
+    transform: translateX(100%);
+    background-color: white;
+    border: none;
+    color: black;
+    border: 2px solid #f53a07;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    transition-duration: 0.4s;
+    margin-top: 15px;
+    
+  }
+  
+  .button:hover {
+    background-color: #ff9868;
+    color: white; 
+  }
